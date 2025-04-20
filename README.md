@@ -97,7 +97,7 @@ The app uses the browser's localStorage to persist your data:
 
 Adhyayan Gupta - [@Adhyayan2107](https://fitnesslogg.netlify.app/) - adhyayan2107@gmail.com
 
-Project Link: [https://fitnesslogg.netlify.app/](https://github.com/Adhyayan2107/fitness-app.git)
+Project Link: [Fitness-App](https://fitnesslogg.netlify.app/)
 
 ---
 
