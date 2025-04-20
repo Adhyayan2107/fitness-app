@@ -21,7 +21,7 @@ const App = () => {
       </main>
       <footer>
         <div className="container">
-          <p>&copy; {new Date().getFullYear()} FitnessTracker App</p>
+          <p>Made with ❤️ by Adhyayan Gupta</p>
         </div>
       </footer>
     </div>
