@@ -2,8 +2,6 @@
 
 A comprehensive React-based web application for tracking workouts, setting fitness goals, and monitoring your progress over time.
 
-![Fitness Tracker App](https://fitness-app2.vercel.app/)
-
 ## Features
 
 - **Multi-page Navigation**: Seamlessly navigate between Home, Workouts, Goals, and Profile pages
